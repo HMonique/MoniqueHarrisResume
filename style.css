@@ -1,0 +1,19 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    }
+
+.monique{
+    text-align: center;
+    border: 2px solid black;
+    font-family: Arial Narrow;
+    font-size: small;
+    }
+
+.technical-skills{
+    display: flex;
+    justify-content: space-around;
+    font-family: Arial Narrow;
+    font-size: medium;
+    border: 2px solid black;
+    }
