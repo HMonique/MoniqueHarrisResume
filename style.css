@@ -17,3 +17,11 @@
     font-size: medium;
     border: 2px solid black;
     }
+
+    h4{
+        display: flex;
+        font-family: Arial;
+        font-size: small;
+        border: 2px solid black;
+    }
+
